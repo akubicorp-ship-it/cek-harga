@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f7f7f8;
+  color: #1a1a1a;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.page {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 16px 60px;
+}
+
+.header h1 {
+  font-size: 1.6rem;
+  margin: 0 0 6px;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0 0 24px;
+}
+
+.toolbar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.toolbar input[type="text"] {
+  flex: 1;
+  min-width: 200px;
+  padding: 10px 14px;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.toolbar select {
+  padding: 10px 12px;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  background: #fff;
+  font-size: 14px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+th,
+td {
+  text-align: left;
+  padding: 12px 14px;
+  border-bottom: 1px solid #eee;
+  font-size: 0.9rem;
+}
+
+th {
+  background: #fafafa;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 600;
+  color: #444;
+}
+
+th:hover {
+  background: #f0f0f0;
+}
+
+tr:hover td {
+  background: #f7fbff;
+}
+
+.price {
+  font-weight: 700;
+  color: #0a7a3d;
+}
+
+.unit-price {
+  color: #888;
+  font-size: 0.78rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 99px;
+  background: #eef4ff;
+  color: #2455c9;
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.state-message {
+  text-align: center;
+  color: #888;
+  padding: 60px 0;
+}
+
+.footer {
+  text-align: center;
+  color: #aaa;
+  font-size: 0.78rem;
+  margin-top: 30px;
+}

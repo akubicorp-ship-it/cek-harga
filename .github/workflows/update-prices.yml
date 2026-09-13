@@ -1,0 +1,37 @@
+name: Update Harga Hemat.id
+
+on:
+  schedule:
+    # Jalan tiap 6 jam. Sesuaikan kalau mau lebih jarang/sering.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {} # supaya bisa di-trigger manual dari tab "Actions" di GitHub
+
+permissions:
+  contents: write # supaya workflow boleh commit file JSON balik ke repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node scraper-hemat.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/harga-data.json
+          git diff --staged --quiet || git commit -m "chore: update harga data [skip ci]"
+          git push
