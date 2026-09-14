@@ -96,7 +96,14 @@ async function scrapeCategory(slug) {
       const price = parseRupiah(cells.eq(1).text());
       const pricePerUnit = parseRupiah(cells.eq(2).text());
       const retailer = cells.eq(3).text().trim();
-      const link = cells.eq(0).find("a").attr("href") || null;
+      const rawLink = cells.eq(0).find("a").attr("href") || null;
+      // Ubah link relatif ("/harga/xxx") jadi URL lengkap ke hemat.id,
+      // supaya kalau diklik di situs kita nggak nyasar ke domain sendiri.
+      const link = rawLink
+        ? rawLink.startsWith("http")
+          ? rawLink
+          : `https://www.hemat.id${rawLink.startsWith("/") ? "" : "/"}${rawLink}`
+        : null;
 
       if (name) {
         results.push({ name, price, pricePerUnit, retailer, link, category: slug });
