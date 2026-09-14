@@ -45,15 +45,31 @@ function parseRupiah(text) {
   return digits ? parseInt(digits, 10) : null;
 }
 
+// ScraperAPI: kalau env SCRAPERAPI_KEY diisi, request akan lewat proxy
+// mereka (IP residensial, nggak gampang kena blokir 403). Kalau kosong
+// (misal waktu tes lokal), fallback ke request langsung seperti biasa.
+const SCRAPERAPI_KEY = process.env.SCRAPERAPI_KEY || "";
+
 async function scrapeCategory(slug) {
-  const url = `https://www.hemat.id/harga/${slug}/`;
-  const { data: html } = await axios.get(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-    },
-    timeout: 15000,
-  });
+  const targetUrl = `https://www.hemat.id/harga/${slug}/`;
+
+  let html;
+  if (SCRAPERAPI_KEY) {
+    const { data } = await axios.get("https://api.scraperapi.com", {
+      params: { api_key: SCRAPERAPI_KEY, url: targetUrl },
+      timeout: 30000,
+    });
+    html = data;
+  } else {
+    const { data } = await axios.get(targetUrl, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      },
+      timeout: 15000,
+    });
+    html = data;
+  }
 
   const $ = cheerio.load(html);
   const results = [];

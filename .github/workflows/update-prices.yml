@@ -26,6 +26,8 @@ jobs:
         run: npm install
 
       - name: Run scraper
+        env:
+          SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
         run: node scraper-hemat.js
 
       - name: Commit updated data
