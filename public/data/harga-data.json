@@ -6,7 +6,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/hotel.beras.00086924-sugar-free-white-rice-2000-gr/#1135173",
     "category": "beras",
-    "scrapedAt": "2026-11-16T05:36:53.114Z"
+    "scrapedAt": "2026-11-16T15:15:37.035Z"
   },
   {
     "name": "Bimoli Minyak Goreng 2000 ml",
@@ -15,7 +15,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/bimoli.minyak-goreng.00007533-2000-ml/#1137014",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Tropical Minyak Goreng 2000 ml",
@@ -24,7 +24,7 @@
     "retailer": "Alfamart",
     "link": "https://www.hemat.id/harga/tropical.minyak-goreng.00037713-2000-ml/#1137673",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Sunco Minyak Goreng 2000 ml",
@@ -33,7 +33,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/sunco.minyak-goreng.00036022-2000-ml/#1136975",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Sania Minyak Goreng 2000 ml",
@@ -42,7 +42,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/sania.minyak-goreng.00032969-2000-ml/#1137015",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Rose Brand Minyak Goreng 2000 ml",
@@ -51,7 +51,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/rose-brand.minyak-goreng.00032203-2000-ml/#1137396",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Grandco Minyak Goreng 2000 ml",
@@ -60,7 +60,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/katalog/grandco.minyak-goreng/#1137910",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Indomaret Minyak Goreng 2000 ml",
@@ -69,7 +69,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/indomaret.minyak-goreng.00018389-2000-ml/#1138857",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "365 Minyak Goreng Sawit RSPO 2000 ml",
@@ -78,7 +78,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/365.minyak-goreng.00003905-sawit-rspo-2000-ml/#1136763",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Alfamart Minyak Goreng 2000 ml",
@@ -87,7 +87,7 @@
     "retailer": "Alfamart",
     "link": "https://www.hemat.id/harga/alfamart.minyak-goreng.00004829-2000-ml/#1137668",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
   },
   {
     "name": "Vipco Minyak Goreng 2000 ml",
@@ -96,7 +96,16 @@
     "retailer": "Alfamart",
     "link": "https://www.hemat.id/katalog/vipco.minyak-goreng/#1137667",
     "category": "minyak-goreng",
-    "scrapedAt": "2026-11-16T05:37:00.865Z"
+    "scrapedAt": "2026-11-16T15:15:54.768Z"
+  },
+  {
+    "name": "Haan Gula Aren 250 gr",
+    "price": 22800,
+    "pricePerUnit": 2280,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/katalog/haan.gula-pemanis/#1139526",
+    "category": "gula-pemanis",
+    "scrapedAt": "2026-11-16T15:16:03.589Z"
   },
   {
     "name": "Tropicana Slim Sweetener Diabtx 50 pcs",
@@ -105,7 +114,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/tropicana-slim.sweetener.00037771-diabtx-50-pcs/#1137507",
     "category": "gula-pemanis",
-    "scrapedAt": "2026-11-16T05:37:06.888Z"
+    "scrapedAt": "2026-11-16T15:16:03.589Z"
   },
   {
     "name": "Ultra Milk Susu UHT Low Fat Coklat, Coklat 1000 ml",
@@ -114,7 +123,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-low-fat-coklat-1000-ml/#1137347",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
@@ -123,16 +132,16 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1134852",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
-    "name": "Frisian Flag Susu UHT Purefarm Swiss Chocolate, Full Cream 225 ml  x 2 tpk",
-    "price": 10490,
-    "pricePerUnit": 23311,
-    "retailer": "Superindo",
-    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-swiss-chocolate-225-ml/#1136844",
+    "name": "Frisian Flag Susu UHT Purefarm Coconut Delight, Low Fat, Full Cream, Swiss Chocolate 946 ml",
+    "price": 19200,
+    "pricePerUnit": 20296,
+    "retailer": "Indomaret",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-coconut-delight-946-ml/#1138859",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Greenfields UHT 105 ml  x 3 tpk",
@@ -141,7 +150,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/greenfields.uht.00071121-chocolate-105-ml/#1137346",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Milku Susu UHT 200 ml  x 2 botol",
@@ -150,7 +159,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/milku.susu-uht/#1137072",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Cimory Susu UHT Banana, Strawberry, Almond, Blueberry, Chocolate, Cashew, Hazelnut, Matcha, Chocolate Mint, Marie Biscuits, Peanut Butter, Choco Malt, Chocolate Tiramisu, Sea Salt, Bebas Laktosa, Full Cream, Salted Caramel 250 ml",
@@ -159,7 +168,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/cimory.susu-uht.00083827-banana-250-ml/#1134422",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Ultra Milk Susu UHT Low Fat Coklat, Coklat 1000 ml",
@@ -168,16 +177,25 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-low-fat-coklat-1000-ml/#1137347",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
-    "name": "Frisian Flag Susu UHT Junio Plain, Strawberry, Chocolate 110 ml",
-    "price": 15900,
-    "pricePerUnit": 144545,
-    "retailer": "Indomaret",
-    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-junio.00078693-plain-110-ml/#1136980",
+    "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
+    "price": 18900,
+    "pricePerUnit": 19895,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1139307",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Frisian Flag Susu UHT Purefarm Coconut Delight, Low Fat, Full Cream, Swiss Chocolate 946 ml",
+    "price": 19200,
+    "pricePerUnit": 20296,
+    "retailer": "Indomaret",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-coconut-delight-946-ml/#1138859",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Greenfields UHT 105 ml  x 3 tpk",
@@ -186,7 +204,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/greenfields.uht.00071121-chocolate-105-ml/#1137346",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Milku Susu UHT 200 ml  x 2 botol",
@@ -195,16 +213,25 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/milku.susu-uht/#1137072",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
-    "name": "Ultra Milk Susu UHT Taro, Karamel, Coklat, Stroberi 200 ml  x 2 tpk",
-    "price": 11800,
-    "pricePerUnit": 29500,
-    "retailer": "Indomaret",
-    "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-taro-200-ml/#1137348",
+    "name": "Cimory Susu UHT No Added Sugar Matcha, Marie Biscuit, Cokelat, Almond 225 ml",
+    "price": 7400,
+    "pricePerUnit": 32889,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/katalog/cimory.susu-uht/#1139428",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Ultra Milk Susu UHT Coklat 1000 ml  x 2 tpk",
+    "price": 38200,
+    "pricePerUnit": 19100,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-coklat-1000-ml/#1139430",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
@@ -213,7 +240,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1134852",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Frisian Flag Susu UHT Purefarm Swiss Chocolate, Full Cream 225 ml  x 2 tpk",
@@ -222,7 +249,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-swiss-chocolate-225-ml/#1136844",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Greenfields UHT 105 ml  x 3 tpk",
@@ -231,7 +258,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/greenfields.uht.00071121-chocolate-105-ml/#1137346",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Milku Susu UHT 200 ml  x 2 botol",
@@ -240,7 +267,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/milku.susu-uht/#1137072",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Cimory Susu UHT Banana, Strawberry, Almond, Blueberry, Chocolate, Cashew, Hazelnut, Matcha, Chocolate Mint, Marie Biscuits, Peanut Butter, Choco Malt, Chocolate Tiramisu, Sea Salt, Bebas Laktosa, Full Cream, Salted Caramel 250 ml",
@@ -249,7 +276,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/cimory.susu-uht.00083827-banana-250-ml/#1134422",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Ultra Milk Susu UHT Low Fat Coklat, Coklat 1000 ml",
@@ -258,7 +285,16 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-low-fat-coklat-1000-ml/#1137347",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Frisian Flag Susu UHT Purefarm Coconut Delight, Low Fat, Full Cream, Swiss Chocolate 946 ml",
+    "price": 19200,
+    "pricePerUnit": 20296,
+    "retailer": "Indomaret",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-coconut-delight-946-ml/#1138859",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Ultra Milk Susu UHT Low Fat Coklat, Coklat 1000 ml",
@@ -267,7 +303,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-low-fat-coklat-1000-ml/#1137347",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
@@ -276,7 +312,34 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1134852",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Frisian Flag Susu UHT Purefarm Coconut Delight, Low Fat, Full Cream, Swiss Chocolate 946 ml",
+    "price": 19200,
+    "pricePerUnit": 20296,
+    "retailer": "Indomaret",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-coconut-delight-946-ml/#1138859",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
+    "price": 18900,
+    "pricePerUnit": 9947,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1139307",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
+  },
+  {
+    "name": "Frisian Flag Susu Kental Manis Cokelat, Putih 535 gr",
+    "price": 15200,
+    "pricePerUnit": 14206,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-kental-manis.00014595-cokelat-535-gr/#1139308",
+    "category": "susu-uht",
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Cimory Susu UHT Banana, Strawberry, Almond, Blueberry, Chocolate, Cashew, Hazelnut, Matcha, Chocolate Mint, Marie Biscuits, Peanut Butter, Choco Malt, Chocolate Tiramisu, Sea Salt, Bebas Laktosa, Full Cream, Salted Caramel 250 ml",
@@ -285,7 +348,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/cimory.susu-uht.00083827-banana-250-ml/#1134422",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Indomilk Korean Series All Variants 180 ml",
@@ -294,16 +357,16 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/indomilk.korean-series.00092859-belgian-chocolate-180-ml/#1135289",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
-    "name": "Frisian Flag Susu UHT Junio Plain, Strawberry, Chocolate 110 ml",
-    "price": 15900,
-    "pricePerUnit": 18068,
-    "retailer": "Indomaret",
-    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-junio.00078693-plain-110-ml/#1136980",
+    "name": "Frisian Flag Susu UHT Junio Plain, Chocolate, Strawberry 110 ml",
+    "price": 14900,
+    "pricePerUnit": 16932,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-junio.00078693-plain-110-ml/#1138871",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Greenfields UHT 105 ml  x 3 tpk",
@@ -312,7 +375,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/greenfields.uht.00071121-chocolate-105-ml/#1137346",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Ultra Milk Susu UHT Taro, Karamel, Coklat, Stroberi 200 ml  x 2 tpk",
@@ -321,16 +384,16 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/ultra-milk.susu-uht.00065705-taro-200-ml/#1137348",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
-    "name": "Indomilk Susu UHT Cokelat, Stroberi, Mangga, Pisang, Vanila, Melon, Chocolate Java Criollo, Vanilla Marie 190 ml",
-    "price": 3900,
-    "pricePerUnit": 5132,
-    "retailer": "Yogya",
-    "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-cokelat-190-ml/#1134251",
+    "name": "Indomilk Susu UHT Full Cream Plain, Cokelat 950 ml",
+    "price": 18900,
+    "pricePerUnit": 4974,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/indomilk.susu-uht.00003338-full-cream-plain-950-ml/#1139307",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Frisian Flag Susu UHT Purefarm Swiss Chocolate, Full Cream 225 ml  x 2 tpk",
@@ -339,7 +402,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/frisian-flag.susu-uht-purefarm.00066508-swiss-chocolate-225-ml/#1136844",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Milku Susu UHT 200 ml  x 2 botol",
@@ -348,7 +411,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/milku.susu-uht/#1137072",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Cimory Susu UHT Banana, Strawberry, Almond, Blueberry, Chocolate, Cashew, Hazelnut, Matcha, Chocolate Mint, Marie Biscuits, Peanut Butter, Choco Malt, Chocolate Tiramisu, Sea Salt, Bebas Laktosa, Full Cream, Salted Caramel 250 ml",
@@ -357,7 +420,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/cimory.susu-uht.00083827-banana-250-ml/#1134422",
     "category": "susu-uht",
-    "scrapedAt": "2026-11-16T05:37:11.107Z"
+    "scrapedAt": "2026-11-16T15:16:11.402Z"
   },
   {
     "name": "Indomie Mi Goreng Jumbo Rendang, Cabe Ijo 120 gr  x 3 pcs",
@@ -366,7 +429,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/indomie.mi-goreng-jumbo.00018487-rendang-120-gr/#1136766",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Sedaap Mie Goreng Original 90 gr X 5 pcs",
@@ -375,7 +438,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/sedaap.mie-goreng.00084415-original-90-gr-5-pcs/#1134501",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Sukses's Mie Goreng Isi 2 Ayam Geprek, Ayam Kremees, Ayam Kecap, Rendang, Aceh 126 gr  x 3 pcs",
@@ -384,7 +447,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/suksess.mie-goreng-isi-2.00067516-ayam-geprek-126-gr/#1137656",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Sarimi Mi Instan Ayam Bawang 75 gr  x 2 pcs",
@@ -393,7 +456,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/sarimi.mi-instan.00084454-ayam-bawang-75-gr/#1135798",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Supermi Mi Instan Ayam Bawang 75 gr  x 2 pcs",
@@ -402,7 +465,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/supermi.mi-instan.00070447-ayam-bawang-75-gr/#1135799",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Gaga 100 Extra Pedas 75 gr  x 2 pcs",
@@ -411,7 +474,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/gaga.mie/#1137658",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Indomaret Instant Cup Noodle Ayam Pedas 90 gr",
@@ -420,7 +483,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/indomaret.instant-cup-noodle.00070716-ayam-pedas-90-gr/#1137076",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Promina Mi Batita Ayam Kampung 75 gr",
@@ -429,7 +492,7 @@
     "retailer": "Alfamidi",
     "link": "https://www.hemat.id/katalog/promina.mie/#1139079",
     "category": "mie",
-    "scrapedAt": "2026-11-16T05:37:15.788Z"
+    "scrapedAt": "2026-11-16T15:16:19.017Z"
   },
   {
     "name": "Kapal Api Kopi Spesial Silver 350 gr",
@@ -438,7 +501,16 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/kapal-api.kopi-spesial-silver.00076261-350-gr/#1135291",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
+  },
+  {
+    "name": "Golda Coffee Drink Dolce Latte, Cappucino 200 ml  x 2 botol",
+    "price": 6325,
+    "pricePerUnit": 949,
+    "retailer": "Hari Hari",
+    "link": "https://www.hemat.id/harga/golda.coffee-drink.00070691-dolce-latte-200-ml/#1139184",
+    "category": "kopi",
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Point Coffee Coffee Drink Cappuccino 210 ml",
@@ -447,7 +519,16 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/point-coffee.kopi/#1137075",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
+  },
+  {
+    "name": "Luwak White Koffie Ready To Drink Original 220 ml",
+    "price": 5900,
+    "pricePerUnit": 1609,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/luwak.white-koffie-ready-to-drink.00022950-original-220-ml/#1139564",
+    "category": "kopi",
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Nescafe Ready to Drink Caramel Macchiato, Gula Aren, Ice Black, Latte, Cappucino 220 ml  x 2 kaleng",
@@ -456,16 +537,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/nescafe.ready-to-drink.00026734-caramel-macchiato-220-ml/#1136996",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
-  },
-  {
-    "name": "Luwak White Koffie Ready To Drink Original 220 ml  x 2 botol",
-    "price": 11990,
-    "pricePerUnit": 1635,
-    "retailer": "Hypermart",
-    "link": "https://www.hemat.id/harga/luwak.white-koffie-ready-to-drink.00022950-original-220-ml/#1138316",
-    "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Fresco Kopi Gula 23 gr X 8 sachet",
@@ -474,7 +546,16 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/fresco.kopi-gula.00014452-23-gr-8-sachet/#1136069",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
+  },
+  {
+    "name": "Abc Kopi Gula Aren, Tubruk, Pandan Aren 27 gr X 9 sachet",
+    "price": 10900,
+    "pricePerUnit": 2691,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/abc.kopi.00086770-gula-aren-27-gr-9-sachet/#1139568",
+    "category": "kopi",
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Pikopi 3 in 1 Kopi Mix 20 gr X 10 sachet",
@@ -483,16 +564,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/pikopi.3-in-1-kopi-mix.00079137-20-gr-10-sachet/#1136070",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
-  },
-  {
-    "name": "Abc Kopi Susu 31 gr X 10 sachet",
-    "price": 18500,
-    "pricePerUnit": 3581,
-    "retailer": "LotteMart",
-    "link": "https://www.hemat.id/harga/abc.kopi.00086770-susu-31-gr-10-sachet/#1135292",
-    "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Good Day Cappuccino 25 gr X 10 sachet",
@@ -501,7 +573,7 @@
     "retailer": "Alfamart",
     "link": "https://www.hemat.id/harga/good-day.cappuccino.00016145-25-gr-10-sachet/#1137701",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Indocafe Cappuccino 25 gr X 5 sachet",
@@ -510,7 +582,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/indocafe.cappuccino.00018025-25-gr-5-sachet/#1136858",
     "category": "kopi",
-    "scrapedAt": "2026-11-16T05:37:24.660Z"
+    "scrapedAt": "2026-11-16T15:16:26.626Z"
   },
   {
     "name": "Lifebuoy Body Wash Cool Fresh, Lemon Fresh, Total 10, Mild Care 800 ml",
@@ -519,7 +591,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/lifebuoy.body-wash.00022067-cool-fresh-800-ml/#1135145",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Biore Guard Body Foam Refresh Lemongrass 400 ml",
@@ -528,7 +600,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/biore.guard-body-foam.00072210-refresh-lemongrass-400-ml/#1136914",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "K Natural White Body Wash Sparkling Magnolia 725 ml",
@@ -537,7 +609,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/k-natural-white.body-wash.00085905-sparkling-magnolia-725-ml/#1138775",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Lovemy Gel Body Wash 900 ml  x 4 pouch",
@@ -546,7 +618,34 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/katalog/lovemy.sabun-mandi-cair/#1132354",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
+  },
+  {
+    "name": "Lux Botanicals Body Wash Magical Orchid, Soft Rose 450 ml",
+    "price": 15000,
+    "pricePerUnit": 3333,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/lux.botanicals-body-wash.00029043-magical-orchid-450-ml/#1139248",
+    "category": "sabun-mandi-cair",
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
+  },
+  {
+    "name": "Lux Botanicals Body Wash Magical Orchid, Soft Rose 450 ml",
+    "price": 15000,
+    "pricePerUnit": 3333,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/lux.botanicals-body-wash.00029043-magical-orchid-450-ml/#1139248",
+    "category": "sabun-mandi-cair",
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
+  },
+  {
+    "name": "Lux Botanicals Body Wash Magical Orchid, Soft Rose 450 ml",
+    "price": 15000,
+    "pricePerUnit": 3333,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/lux.botanicals-body-wash.00029043-magical-orchid-450-ml/#1139248",
+    "category": "sabun-mandi-cair",
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Nuvo Body Wash All Variants 400 ml",
@@ -555,7 +654,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/nuvo.body-wash.00027744-mild-protect-400-ml/#1135157",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Giv Body Wash 400 ml  x 2 pouch",
@@ -564,7 +663,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/giv.body-wash.00015741-passion-flowers-and-sweet-berry-400-ml/#1138334",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Watsons Scented Cream Bath Cantaloupe, Rose, Green Tea 800 ml",
@@ -573,34 +672,7 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/katalog/watsons.sabun-mandi-cair/#1132078",
     "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
-  },
-  {
-    "name": "Naeem Body Wash Taifi Rose 400 ml",
-    "price": 15500,
-    "pricePerUnit": 3875,
-    "retailer": "Indomaret",
-    "link": "https://www.hemat.id/katalog/naeem.sabun-mandi-cair/#1137282",
-    "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
-  },
-  {
-    "name": "Lux Botanicals Body Wash Soft Rose, Blue Bell, Velvet Jasmine, Sakura Bloom 900 ml",
-    "price": 35900,
-    "pricePerUnit": 3989,
-    "retailer": "Indomaret",
-    "link": "https://www.hemat.id/harga/lux.botanicals-body-wash.00029043-soft-rose-900-ml/#1137175",
-    "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
-  },
-  {
-    "name": "Fres & Natural Body Wash Dessert Collection Pink Cupcake 400 ml",
-    "price": 16000,
-    "pricePerUnit": 4000,
-    "retailer": "Watsons",
-    "link": "https://www.hemat.id/harga/fres-natural.body-wash-dessert-collection.00088249-pink-cupcake-400-ml/#1131282",
-    "category": "sabun-mandi-cair",
-    "scrapedAt": "2026-11-16T05:37:30.088Z"
+    "scrapedAt": "2026-11-16T15:16:33.616Z"
   },
   {
     "name": "Wardah Shampoo Anti Dandruff, Hairfall Treatment 170 ml",
@@ -609,7 +681,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/wardah.shampoo.00039208-anti-dandruff-170-ml/#1135150",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Lifebuoy Shampoo Anti Hair Fall, Anti Dandruff, Strong & Shiny 680 ml",
@@ -618,7 +690,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/lifebuoy.shampoo.00022070-anti-hair-fall-680-ml/#1138154",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Emeron Shampoo Black Shine 450 ml",
@@ -627,7 +699,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/emeron.shampoo.00066708-black-shine-450-ml/#1135149",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Zinc Shampoo Refreshing Cool 450 ml",
@@ -636,7 +708,7 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/harga/zinc.shampoo.00040282-refreshing-cool-450-ml/#1131440",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Sunsilk Shampoo Silky Smooth, Glossy Black 650 ml",
@@ -645,7 +717,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/sunsilk.shampoo.00036203-silky-smooth-650-ml/#1134513",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Serasoft Shampoo Hairfall Treatment 340 ml",
@@ -654,7 +726,7 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/harga/serasoft.shampoo.00066705-hairfall-treatment-340-ml/#1131432",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Head & Shoulders Shampoo Cool Menthol 480 ml",
@@ -663,7 +735,7 @@
     "retailer": "Guardian",
     "link": "https://www.hemat.id/harga/head-shoulders.shampoo.00016958-cool-menthol-480-ml/#1127743",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Rejoice Shampoo Rich Soft Smooth 320 ml",
@@ -672,7 +744,7 @@
     "retailer": "Alfamidi",
     "link": "https://www.hemat.id/harga/rejoice.shampoo.00031491-rich-soft-smooth-320-ml/#1139121",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Pantene Shampoo Miracles Biotin 145 ml",
@@ -681,7 +753,7 @@
     "retailer": "Alfamidi",
     "link": "https://www.hemat.id/katalog/pantene.shampoo/#1138772",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Mustika Ratu Shampoo Bayam 175 ml",
@@ -690,7 +762,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/mustika-ratu.shampoo/#1137155",
     "category": "shampoo",
-    "scrapedAt": "2026-11-16T05:37:36.563Z"
+    "scrapedAt": "2026-11-16T15:16:38.156Z"
   },
   {
     "name": "Pepsodent Pasta Gigi Pencegah Gigi Berlubang White 225 gr",
@@ -699,7 +771,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/pepsodent.pasta-gigi-pencegah-gigi-berlubang.00085964-white-225-gr/#1137058",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Ciptadent Pasta Gigi Maxi Herbal 190 gr  x 2 pcs",
@@ -708,7 +780,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/ciptadent.pasta-gigi-maxi-herbal.00010093-190-gr/#1138333",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Formula Pasta Gigi Strong Protection 160 gr",
@@ -717,7 +789,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/formula.pasta-gigi.00014339-strong-protection-160-gr/#1135193",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Darlie Toothpaste Fresh & Brite 140 gr",
@@ -726,7 +798,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/darlie.toothpaste.00011518-fresh-and-brite-140-gr/#1134502",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Close Up Pasta Gigi Complete Fresh Protec 100 gr",
@@ -735,16 +807,16 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/harga/close-up.pasta-gigi.00010374-complete-fresh-protec-100-gr/#1131223",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
-    "name": "Sensodyne Pasta Gigi Fresh Mint 60 gr",
-    "price": 15000,
-    "pricePerUnit": 25000,
-    "retailer": "Superindo",
-    "link": "https://www.hemat.id/harga/sensodyne.pasta-gigi.00034044-fresh-mint-60-gr/#1136917",
+    "name": "Sensodyne Pasta Gigi Fresh Mint 100 gr",
+    "price": 24400,
+    "pricePerUnit": 24400,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/sensodyne.pasta-gigi.00034044-fresh-mint-100-gr/#1139336",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Colgate Toothpaste Optic White Purple 100 gr",
@@ -753,7 +825,7 @@
     "retailer": "Watsons",
     "link": "https://www.hemat.id/harga/colgate.toothpaste-optic-white.00067412-purple-100-gr/#1132606",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Systema Sikat Gigi Nine Degree Sensitive Soft 3 pcs X 3 pcs",
@@ -762,7 +834,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/systema.sikat-gigi/#1137403",
     "category": "pasta-gigi",
-    "scrapedAt": "2026-11-16T05:37:40.160Z"
+    "scrapedAt": "2026-11-16T15:16:43.127Z"
   },
   {
     "name": "Rinso Liquid Detergent Gentle, Sensi Fresh, Front Load, Micellar Soft, Molto Micellar Soft, Top Load, Molto Japanese Peach, Front Load + Molto, Molto Pink Rose Fresh, Active Fresh Yuzu & Mint 700 ml",
@@ -771,7 +843,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/rinso.liquid-detergent.00031890-gentle-700-ml/#1137465",
     "category": "deterjen-cair",
-    "scrapedAt": "2026-11-16T05:37:44.829Z"
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
   },
   {
     "name": "So Klin Liquid Detergent Eau De Parfum Bleu Petale 700 ml",
@@ -780,7 +852,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/katalog/so-klin.deterjen-cair/#1135408",
     "category": "deterjen-cair",
-    "scrapedAt": "2026-11-16T05:37:44.829Z"
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
   },
   {
     "name": "Larisst Detergent Cair Spring Garden 750 ml",
@@ -789,7 +861,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/katalog/larisst.deterjen-cair/#1137065",
     "category": "deterjen-cair",
-    "scrapedAt": "2026-11-16T05:37:44.829Z"
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
   },
   {
     "name": "Gentle Gen Deterjen Anti Keringat, French Peony, Lilac Bloom, Morning Breeze, Parisienne Garden 700 ml",
@@ -798,7 +870,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/gentle-gen.deterjen.00087176-anti-keringat-700-ml/#1136909",
     "category": "deterjen-cair",
-    "scrapedAt": "2026-11-16T05:37:44.829Z"
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
   },
   {
     "name": "Sosoft Deterjen Cair Freesia & Pear, Rose & Waterlily, Sakura Blossom, Sweet Peony 700 ml",
@@ -807,16 +879,25 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/sosoft.deterjen-cair.00090722-freesia-and-pear-700-ml/#1137456",
     "category": "deterjen-cair",
-    "scrapedAt": "2026-11-16T05:37:44.829Z"
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
   },
   {
-    "name": "Mamy Poko Pants Xtra Kering M48 48 pcs",
-    "price": 69900,
-    "pricePerUnit": 1456,
-    "retailer": "Yogya",
-    "link": "https://www.hemat.id/harga/mamy-poko.pants-xtra-kering.00070003-m-48-48-pcs/#1134247",
+    "name": "Vanish White 425 ml",
+    "price": 14900,
+    "pricePerUnit": 18406,
+    "retailer": "Hari Hari",
+    "link": "https://www.hemat.id/harga/vanish.white.00067767-425-ml/#1139439",
+    "category": "deterjen-cair",
+    "scrapedAt": "2026-11-16T15:16:51.569Z"
+  },
+  {
+    "name": "Mamy Poko Pants Xtra Kering Slim Tidak Gembung M-30, L-28, XL-23, XXL-20 30 pcs",
+    "price": 43500,
+    "pricePerUnit": 1450,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/mamy-poko.pants-xtra-kering-slim-tidak-gembung.00078263-m-30-30-pcs/#1139451",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Sweety Silver Pants S66 66 pcs",
@@ -825,7 +906,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/sweety.silver-pants.00066040-s-66-66-pcs/#1134771",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Merries Pants Good Skin Nb-S40, M32, L28, XL26 40 pcs",
@@ -834,7 +915,16 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/merries.pants-good-skin.00024521-nb-s-40-40-pcs/#1137918",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
+  },
+  {
+    "name": "Fitti Pants S40 40 pcs",
+    "price": 43500,
+    "pricePerUnit": 1088,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/fitti.pants.00083318-s-40-40-pcs/#1139446",
+    "category": "popok-celana",
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Baby Happy Body Fit Pants M32, L28 32 pcs",
@@ -843,7 +933,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/baby-happy.body-fit-pants.00006334-m-32-32-pcs/#1137039",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Makuku Comfort Fit Diapers Pants M30 30 pcs",
@@ -852,7 +942,25 @@
     "retailer": "Hari Hari",
     "link": "https://www.hemat.id/katalog/makuku.popok-celana/#1138811",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
+  },
+  {
+    "name": "Happy Nappy Smart Pantz Diaper M32, L28, XL24, M34, L30 32 pcs",
+    "price": 45900,
+    "pricePerUnit": 1434,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/harga/happy-nappy.smart-pantz-diaper.00069732-m-32-32-pcs/#1139448",
+    "category": "popok-celana",
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
+  },
+  {
+    "name": "Pokana Mosafe Sap Diapers M26 26 pcs",
+    "price": 46900,
+    "pricePerUnit": 1804,
+    "retailer": "Alfamart",
+    "link": "https://www.hemat.id/katalog/pokana.popok-celana/#1139468",
+    "category": "popok-celana",
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Babies Joy Comfy Fit Baby Diapers Pants L28, M30, XL26 1 pcs",
@@ -861,7 +969,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/katalog/babies-joy.popok-celana/#1138085",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Genki Moko Moko Pants Pants Jumbo NB-S38, M32, L28, XL26, XXL24 1 pcs",
@@ -870,7 +978,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/katalog/genki-moko-moko.popok-celana/#1138086",
     "category": "popok-celana",
-    "scrapedAt": "2026-11-16T05:37:49.441Z"
+    "scrapedAt": "2026-11-16T15:17:04.400Z"
   },
   {
     "name": "Ayam Nanas Karkas 1000 gr  x 2 pck",
@@ -879,7 +987,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/katalog/ayam-nanas.daging-ayam/#1135211",
     "category": "daging-ayam",
-    "scrapedAt": "2026-11-16T05:37:54.407Z"
+    "scrapedAt": "2026-11-16T15:17:09.488Z"
   },
   {
     "name": "Ayam Broiler 800 gr",
@@ -888,7 +996,7 @@
     "retailer": "Hypermart",
     "link": "https://www.hemat.id/harga/ayam-broiler.00065749-800-gr/#1138099",
     "category": "daging-ayam",
-    "scrapedAt": "2026-11-16T05:37:54.407Z"
+    "scrapedAt": "2026-11-16T15:17:09.488Z"
   },
   {
     "name": "Choice L Daging Giling Ayam 500 gr",
@@ -897,7 +1005,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/harga/choice-l.daging-giling-ayam.00009850-500-gr/#1138879",
     "category": "daging-ayam",
-    "scrapedAt": "2026-11-16T05:37:54.407Z"
+    "scrapedAt": "2026-11-16T15:17:09.488Z"
   },
   {
     "name": "Paru Sapi 100 gr",
@@ -906,7 +1014,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/harga/paru-sapi.00002402-100-gr/#1136115",
     "category": "daging-sapi",
-    "scrapedAt": "2026-11-16T05:38:01.204Z"
+    "scrapedAt": "2026-11-16T15:17:16.891Z"
   },
   {
     "name": "Villa Smoked Beef 225 gr",
@@ -915,7 +1023,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/harga/villa.smoked-beef.00038711-225-gr/#1136814",
     "category": "daging-sapi",
-    "scrapedAt": "2026-11-16T05:38:01.204Z"
+    "scrapedAt": "2026-11-16T15:17:16.891Z"
   },
   {
     "name": "Alice Spring USA Sliced Beef 500 gr",
@@ -924,7 +1032,7 @@
     "retailer": "LotteMart",
     "link": "https://www.hemat.id/katalog/alice-spring.daging-sapi/#1138986",
     "category": "daging-sapi",
-    "scrapedAt": "2026-11-16T05:38:01.204Z"
+    "scrapedAt": "2026-11-16T15:17:16.891Z"
   },
   {
     "name": "Telur Ayam Negeri 10 pcs",
@@ -933,7 +1041,7 @@
     "retailer": "Indomaret",
     "link": "https://www.hemat.id/harga/telur-ayam.00003010-negeri-10-pcs/#1137041",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "Happy Egg Telur Omega 10 pcs",
@@ -942,7 +1050,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/katalog/happy-egg.telur/#1136137",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "Berkah Mandiri Mandiri Telur Omega 3 10 pcs",
@@ -951,7 +1059,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/katalog/berkah-mandiri.telur/#1136138",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "365 Cage Free Eggs Cage Free 10 pcs",
@@ -960,7 +1068,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/katalog/365.telur/#1136928",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "So Good Telur Omega 10 pcs",
@@ -969,7 +1077,7 @@
     "retailer": "Yogya",
     "link": "https://www.hemat.id/katalog/so-good.telur/#1136139",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "Wong Ayu Telur Ayam Kampung 6 pcs",
@@ -978,7 +1086,7 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/katalog/wong-ayu.telur/#1136813",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   },
   {
     "name": "Wong Ayu Telur Ayam Kampung 6 pcs",
@@ -987,6 +1095,6 @@
     "retailer": "Superindo",
     "link": "https://www.hemat.id/katalog/wong-ayu.telur/#1136813",
     "category": "telur",
-    "scrapedAt": "2026-11-16T05:38:05.031Z"
+    "scrapedAt": "2026-11-16T15:17:20.301Z"
   }
 ]
